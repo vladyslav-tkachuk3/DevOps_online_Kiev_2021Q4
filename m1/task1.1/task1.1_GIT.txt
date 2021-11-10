@@ -1,0 +1,18 @@
+f4fab20 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+aa74553 HEAD@{1}: checkout: moving from develop to main
+f4fab20 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): Merging
+3814bf4 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+f40f608 HEAD@{4}: checkout: moving from styles to develop
+8b69a23 (origin/styles, styles) HEAD@{5}: commit: Changed index.html styles
+c8656f9 HEAD@{6}: commit: Styles
+f40f608 HEAD@{7}: checkout: moving from develop to styles
+f40f608 HEAD@{8}: checkout: moving from images to develop
+3814bf4 (origin/images, images) HEAD@{9}: checkout: moving from develop to images
+f40f608 HEAD@{10}: checkout: moving from images to develop
+3814bf4 (origin/images, images) HEAD@{11}: commit: Added images
+841c786 HEAD@{12}: commit: Added some images
+f40f608 HEAD@{13}: checkout: moving from develop to images
+f40f608 HEAD@{14}: commit: Created index.html
+aa74553 HEAD@{15}: checkout: moving from main to develop
+aa74553 HEAD@{16}: commit: Created readme.txt
+a67538b HEAD@{17}: clone: from https://github.com/tkachukvladislav/DevOps_online_Kiev_2021Q4.git
